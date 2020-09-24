@@ -63,6 +63,10 @@ margin: 100px auto;
   padding-bottom: 50px;
 
 }
+a{
+  color: #11999E;
+  text-decoration: none;
+}
 
 .contact-message{
   width: 60%;
