@@ -37,6 +37,12 @@ width: 4%;
 margin: 100px auto;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 25px;
+  float: left;
+}
+
 
 .top-container {
   background-color: #EAF6F6;
